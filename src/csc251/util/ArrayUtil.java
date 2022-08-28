@@ -16,7 +16,23 @@ public class ArrayUtil{
     }
     public static int sum(int[][] addends){
 
+
     }
 
 
 }
+
+
+
+
+
+
+// Fill should place the passed in value into each cell within the array
+// leaving the array filled entirely with the value.
+//opyOfRange should copy the portion of the array
+// specified by the from and to into a new array
+// of the same type
+// and return the new array.
+//Sum is overloaded with two implementations.
+// One that sums an array of ints.
+// The second should sum an array of arrays of ints.

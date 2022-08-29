@@ -1,11 +1,17 @@
 package csc251.util;
 
 public class ArrayUtil{
-
-    public static void fill(int[] toFill, int val) {
+    public static void main(String[] args) {
+        ArrayUtil array = new ArrayUtil();
+        array.fill;
 
     }
-    public static int[] copyOfRange(int[] original, int from, int to){
+
+    public static void fill(int[] toFill, int val) {
+        //numbers go in here
+
+    }
+    public static int[] copyOfRange(int[] original, int from, int to);
 
     }
     public static int sum(int[] addends) {

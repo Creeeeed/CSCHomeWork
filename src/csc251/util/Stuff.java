@@ -15,7 +15,7 @@ public class Stuff {
         Stuff main4 = new Main();
         Stuff main5 = new Main();
 
-        main = new Main[]
+
 
 
         String stuff = "";

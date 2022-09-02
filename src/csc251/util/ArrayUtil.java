@@ -1,5 +1,5 @@
 package csc251.util;
-
+ // correct fill method
 public class ArrayUtil{
     public static void main(String[] args) {
         ArrayUtil array = new ArrayUtil();
@@ -11,9 +11,12 @@ public class ArrayUtil{
         //numbers go in here
 
     }
-    public static int[] copyOfRange(int[] original, int from, int to);
 
+    public static int[] copyOfRange(int[] original, int from, int to) {
+        return new int[0];
     }
+
+}
     public static int sum(int[] addends) {
         int result = 0;
         for (int addend : addends)

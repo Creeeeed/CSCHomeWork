@@ -1,4 +1,4 @@
-package csc251.util;
+package Week3;
 
 public class Stuff {
     String field1;

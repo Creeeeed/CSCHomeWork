@@ -1,6 +1,4 @@
-package PRACTICE;
-
-import java.sql.SQLOutput;
+package Week3;
 
 public interface Tossable {
     public void toss();
@@ -33,7 +31,7 @@ class Football extends Ball{
 }
 class Main{
     public static void main(String[] args) {
-        Football henry = new Football()
+        Football henry = new Football();
     }
 }
 

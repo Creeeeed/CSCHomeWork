@@ -1,4 +1,4 @@
-package csc251.util;
+package Week3;
     public static void main(String[]args){
         aMethod(new GraduateStudent());
         aMethod(new GraduateStudent());
